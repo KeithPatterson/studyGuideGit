@@ -91,6 +91,7 @@ that --oneline makes it much easier to read, but provides less information
 Commit Comment
 How much information, and what kind of information should be in a commit
 message?
+As much information is needed to describe what change you made so that it can be understood later when you or another person looks back on it
 22
 Great Scott!
 If there was a mistake made in the past of a project, how should we go about
