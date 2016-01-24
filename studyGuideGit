@@ -34,6 +34,8 @@ The branch will always be there but it should last until the owner of the branch
 8
 Tree growth
 How do you create a branch in git?
+command: git branch filename
+command: git checkout filename
 9
 Swinging on a vine
 How do you switch branches in git?
