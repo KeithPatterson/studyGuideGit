@@ -49,6 +49,7 @@ this will merge branch named branchname into master
 11
 Status
 How do you check the status of the files you are presently working on?
+command: git status
 12
 Adding to the chaos
 How do you add files to the repository?
