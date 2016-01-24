@@ -81,6 +81,7 @@ Git is lightweight, free, only available in CLI, and Distrubted.
 19
 What were they thinking?!
 What were the design criteria for git?
+Needed to be light weight, Distributed, and fast
 20
 Time machine
 How do we view the past of a project with git?
