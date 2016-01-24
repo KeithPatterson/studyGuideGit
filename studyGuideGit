@@ -30,6 +30,7 @@ work on the side, like a bug fix or new feature testing
 7
 The life of a limb
 How long are branches in git supposed to exist?
+The branch will always be there but it should last until the owner of the branch decides the part they are working on is ready to be implemented back into the code, then they merge the branch back with the master (or it parent)
 8
 Tree growth
 How do you create a branch in git?
