@@ -13,6 +13,8 @@ Centralized - the repository is on a central system that everyone can checkout f
 3
 Versa who?!
 What does a version control program do for us?
+Version control system keeps a repository of the code being worked on so that everyone in the team can check out code and fix/improve.
+This way everyone can see what everyone else has done in the past and there should always be a working verison of the code, even when making new additions.
 4
 Committing to git
 What is a commit?
