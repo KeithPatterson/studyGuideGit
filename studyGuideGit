@@ -96,3 +96,5 @@ As much information is needed to describe what change you made so that it can be
 Great Scott!
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
+You could either completely get rid of the changes that you made on the file with $ git checkout -- [file]
+or you can create a branch and then revert the changes as you may still want that old file.
