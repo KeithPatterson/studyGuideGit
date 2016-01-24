@@ -85,6 +85,8 @@ Needed to be light weight, Distributed, and fast
 20
 Time machine
 How do we view the past of a project with git?
+command: git log (--oneline)
+that --oneline makes it much easier to read, but provides less information
 21
 Commit Comment
 How much information, and what kind of information should be in a commit
