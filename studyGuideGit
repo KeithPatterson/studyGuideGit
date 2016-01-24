@@ -73,6 +73,7 @@ Linux community wanted a free version control system that was fast, lightweight,
 17
 A day in the life of git
 What is a typical git workflow?
+progressive stability branching. Branch off master for development, then brach off development for specific topics.
 18
 Why git?
 What makes git different than other version control systems?
