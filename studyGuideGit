@@ -69,6 +69,7 @@ github is an online repository. It is a place for you to store your repositories
 16
 We see a need!
 Why was git created?
+Linux community wanted a free version control system that was fast, lightweight, and distributed.
 17
 A day in the life of git
 What is a typical git workflow?
