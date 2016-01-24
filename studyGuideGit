@@ -8,6 +8,8 @@ Version control is a system that records changes to a file or set of files over 
 Where the heart is
 What is the difference between distributed and centralized version control
 systems?
+Distributed - each computer is a full mirror of the repository that everyone is working from
+Centralized - the repository is on a central system that everyone can checkout from/commit to.
 3
 Versa who?!
 What does a version control program do for us?
