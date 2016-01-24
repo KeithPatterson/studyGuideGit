@@ -61,6 +61,7 @@ master branch, this is the default name and most dont change it
 14
 What limb are you on?
 How do you check which branch you presently have checked out?
+git status, shows you whcih branch you are currently working in
 15
 Git what?!
 What is github?
