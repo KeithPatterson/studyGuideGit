@@ -77,6 +77,7 @@ progressive stability branching. Branch off master for development, then brach o
 18
 Why git?
 What makes git different than other version control systems?
+Git is lightweight, free, only available in CLI, and Distrubted.
 19
 What were they thinking?!
 What were the design criteria for git?
