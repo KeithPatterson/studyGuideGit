@@ -44,6 +44,8 @@ this command switches you to a branch named branchname (may need to be in master
 10
 Taping it together
 How do you merge branches in git?
+command: git merge branchname
+this will merge branch named branchname into master
 11
 Status
 How do you check the status of the files you are presently working on?
