@@ -18,6 +18,7 @@ This way everyone can see what everyone else has done in the past and there shou
 4
 Committing to git
 What is a commit?
+A commit is when you take a file that has been changed and place it in the repository in order to track the changes that you made.
 5
 Checking out git
 What is a check out?
